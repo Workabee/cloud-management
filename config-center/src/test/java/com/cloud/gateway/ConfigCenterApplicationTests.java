@@ -1,4 +1,4 @@
-package com.cloud;
+package com.cloud.gateway;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class SystemSettingApplicationTests {
+public class ConfigCenterApplicationTests {
 
 	@Test
 	public void contextLoads() {
