@@ -1,6 +1,6 @@
 package com.cloud.gateway;
 
-import com.cloud.gateway.security.JwtFilter;
+import com.cloud.gateway.security.jumpFilter;
 import org.springframework.boot.SpringApplication;
 import org.springframework.cloud.client.SpringCloudApplication;
 import org.springframework.cloud.netflix.zuul.EnableZuulProxy;
@@ -15,8 +15,10 @@ public class GatewayApplication {
     }
 
     @Bean
-    public JwtFilter accessFilter() {
-        return new JwtFilter();
+    public jumpFilter accessFilter() {
+        return new jumpFilter();
     }
+
+
 
 }
