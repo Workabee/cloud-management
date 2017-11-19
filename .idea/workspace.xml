@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="776aff4d-7859-43d4-b2c6-35a389c0f36b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/login/.mvn/wrapper/maven-wrapper.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/login/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/login/.mvn/wrapper/maven-wrapper.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/login/mvnw" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/login/mvnw.cmd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/login/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/login/src/main/java/com/cloud/login/LoginApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/login/src/main/resources/application.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/login/src/test/java/com/cloud/login/LoginApplicationTests.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/login/src/main/resources/templates/index.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/login/pom.xml" afterPath="$PROJECT_DIR$/login/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/login/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/login/src/main/resources/application.properties" />
     </list>
     <ignored path="$PROJECT_DIR$/eureka/target/" />
     <ignored path="$PROJECT_DIR$/register-center/target/" />
@@ -143,7 +136,12 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="572">
               <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-              <folding />
+              <folding>
+                <element signature="e#2963#2964#0" expanded="false" />
+                <element signature="e#3004#3005#0" expanded="false" />
+                <element signature="e#3121#3122#0" expanded="false" />
+                <element signature="e#3176#3177#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -196,7 +194,13 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="338">
               <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#297#298#0" expanded="false" />
+                <element signature="e#332#333#0" expanded="false" />
+                <element signature="e#388#389#0" expanded="false" />
+                <element signature="e#417#418#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -1732,7 +1736,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="572">
           <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#2963#2964#0" expanded="false" />
+            <element signature="e#3004#3005#0" expanded="false" />
+            <element signature="e#3121#3122#0" expanded="false" />
+            <element signature="e#3176#3177#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1768,7 +1777,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="338">
           <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#297#298#0" expanded="false" />
+            <element signature="e#332#333#0" expanded="false" />
+            <element signature="e#388#389#0" expanded="false" />
+            <element signature="e#417#418#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
